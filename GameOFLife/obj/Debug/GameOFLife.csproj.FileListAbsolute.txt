@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife_MarkupCompile.cache
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife_MarkupCompile.lref
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\bin\Debug\GameOFLife.exe.config
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\bin\Debug\GameOFLife.exe
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\bin\Debug\GameOFLife.pdb
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.g.resources
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.Properties.Resources.resources
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.exe
+C:\Users\Administrator\source\repos\GameOFLife\GameOFLife\obj\Debug\GameOFLife.pdb
